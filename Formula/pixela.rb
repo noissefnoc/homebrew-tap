@@ -1,8 +1,8 @@
 class Pixela < Formula
-  version '0.0.5'
+  version '0.0.6'
   homepage 'https://github.com/noissefnoc/pixela-client-go'
-  url "https://github.com/noissefnoc/pixela-client-go/releases/download/v0.0.5/pixela_v0.0.5_darwin_amd64.zip"
-  sha256 '34fda2b5050eb6cdf410a3ab019b0f406c4b9a63b90f657e8ab01080e10cf518'
+  url "https://github.com/noissefnoc/pixela-client-go/releases/download/v0.0.6/pixela_v0.0.6_darwin_amd64.zip"
+  sha256 '626fe3c7b52bd9207c05cbbed8e4174a307cfe242b5ff99055a8ba95b307818e'
   head 'https://github.com/noissefnoc/pixela-client-go.git'
 
   def install
